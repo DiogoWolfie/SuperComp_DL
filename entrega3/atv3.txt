@@ -1,0 +1,13 @@
+Qual abordagem foi mais rápida? 
+
+R: a abrodagem mais rápida foi com alocação de memória dinâmica, superando a com vetores em 4ms de diferença.
+
+Quais vantagens você percebe ao usar std::vector? 
+
+R: código mais legivel e não existe a preocupação de liberar a memória errado no final, evitando erros.
+
+Como a alocação automática e a liberação de memória pelo std::vector afetam a segurança e robustez do código?
+
+R: Torna o código mais rápido e eficiente pois, teoricamente, não há desperdício de memória alocada. Mas também
+é necessário estar bastante atento na alocação da memória, para sempre liberar o espaço alocado ao final do uso
+evitando uso de lixo de memória no código, sendo mais seguro usar std:::vector.
