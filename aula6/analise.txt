@@ -1,0 +1,34 @@
+Codigo completo
+entrada1.txt peso ocupado: 10 kg e valor alcancado: 266 dilmas no tempo: 0.0003274 s
+entrada2.txt peso ocupado: 2 kg e valor alcancado: 156 dilmas no tempo: 0.0002903 s
+entrada3.txt peso ocupado: 95 kg e valor alcancado: 236 dilmas no tempo: 0.0002968 s
+entrada4.txt peso ocupado: 10 kg e valor alcancado: 55 dilmas no tempo: 0.000324 s
+
+Código apenas da recursiva
+entrada1.txt peso ocupado: 10 kg e valor alcancado: 266 dilmas no tempo: 2.9e-06 s
+entrada2.txt peso ocupado: 2 kg e valor alcancado: 156 dilmas no tempo: 9e-07 s
+entrada3.txt peso ocupado: 95 kg e valor alcancado: 236 dilmas no tempo: 4.6e-06 s
+entrada4.txt peso ocupado: 10 kg e valor alcancado: 55 dilmas no tempo: 8e-07 s
+
+###################################################
+entrada1.txt peso ocupado: 10 kg e valor alcancado: 266 dilmas
+tempo das outras funções: 0.000348 s
+tempo da recursiva: 3e-06 s
+
+entrada2.txt peso ocupado: 2 kg e valor alcancado: 156 dilmas
+tempo das outras funções: 0.0002825 s
+tempo da recursiva: 5e-07 s
+
+entrada3.txt peso ocupado: 95 kg e valor alcancado: 236 dilmas
+tempo das outras funções: 0.0004375 s
+tempo da recursiva: 3.1e-06 s
+
+entrada4.txt peso ocupado: 10 kg e valor alcancado: 55 dilmas
+tempo das outras funções: 0.0003343 s
+tempo da recursiva: 7e-07 s
+
+#######################################################
+
+Persebe-se que as outras funções, de ler o arquivo e separar os valores, demora bem mais tempo que a recursiva em si.
+Mas, analisando a recursiva, os tempos para as entradas 1 e 3 são 10 vezes mais lentas que as da entrada 2 e 4,
+que são arquivos com tamanhos consideravelmente menores.
