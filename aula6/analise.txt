@@ -31,4 +31,8 @@ tempo da recursiva: 7e-07 s
 
 Persebe-se que as outras funções, de ler o arquivo e separar os valores, demora bem mais tempo que a recursiva em si.
 Mas, analisando a recursiva, os tempos para as entradas 1 e 3 são 10 vezes mais lentas que as da entrada 2 e 4,
-que são arquivos com tamanhos consideravelmente menores.
+que são arquivos com tamanhos consideravelmente menores, devido o uso da memória e o tempo para percorrer todas 
+as combinações possíveis nos arquvivos. Isso pode ser melhor visto também no tempo das outras funções, onde ocorre
+a criação de variáveis e de vetores, necessitando de um processamento maior e de um maior uso da memória para
+entradas de arquivos maiores. 
+
