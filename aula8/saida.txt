@@ -1,0 +1,50 @@
+Execução 1:
+Valor final: 470 dinheiros
+Peso final: 600 kg
+Tempo: 0 s
+--------------------------
+Execução 2:
+Valor final: 518 dinheiros
+Peso final: 600 kg
+Tempo: 0.001753 s
+--------------------------
+Execução 3:
+Valor final: 516 dinheiros
+Peso final: 599 kg
+Tempo: 0.0024959 s
+--------------------------
+Execução 4:
+Valor final: 509 dinheiros
+Peso final: 599 kg
+Tempo: 0 s
+--------------------------
+Execução 5:
+Valor final: 509 dinheiros
+Peso final: 599 kg
+Tempo: 0 s
+--------------------------
+Execução 6:
+Valor final: 516 dinheiros
+Peso final: 599 kg
+Tempo: 0.005438 s
+--------------------------
+Execução 7:
+Valor final: 516 dinheiros
+Peso final: 599 kg
+Tempo: 0.0010069 s
+--------------------------
+Execução 8:
+Valor final: 451 dinheiros
+Peso final: 596 kg
+Tempo: 0 s
+--------------------------
+Execução 9:
+Valor final: 442 dinheiros
+Peso final: 596 kg
+Tempo: 0.0007232 s
+--------------------------
+Execução 10:
+Valor final: 442 dinheiros
+Peso final: 596 kg
+Tempo: 0 s
+--------------------------

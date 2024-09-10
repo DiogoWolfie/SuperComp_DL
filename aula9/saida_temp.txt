@@ -1,0 +1,53 @@
+Heuristica do mais valioso
+Peso final: 99 kg
+Valor final: 287 Dinheiros
+###########################################
+
+
+Heuristica do mais leve
+Peso final: 79 kg
+Valor final: 120 Dinheiros
+###########################################
+
+######################################################################
+
+
+Heuristica do mais valioso
+Peso final: 96 kg
+Valor final: 193 Dinheiros
+###########################################
+
+
+Heuristica do mais leve
+Peso final: 96 kg
+Valor final: 193 Dinheiros
+###########################################
+
+Crl, consegui deixar igual com a entrada: 
+10 100
+20 2
+13 13
+9 30
+2 40
+25 12
+30 8
+1 30
+19 15
+15 28
+17 35
+
+
+#################################################################################
+
+Heuristica do mais leve
+Peso final: 61 kg
+Valor final: 159 Dinheiros
+###########################################
+
+
+Heuristica do mais valioso
+Peso final: 100 kg
+Valor final: 85 Dinheiros
+###########################################
+
+

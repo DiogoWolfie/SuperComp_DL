@@ -1,0 +1,62 @@
+Vetor ordenado : 86 10
+Vetor ordenado : 75 12
+Vetor ordenado : 80 17
+Vetor ordenado : 39 17
+Vetor ordenado : 44 18
+Vetor ordenado : 80 19
+Vetor ordenado : 22 19
+Vetor ordenado : 77 20
+Vetor ordenado : 44 22
+Vetor ordenado : 41 22
+Vetor ordenado : 67 23
+Vetor ordenado : 65 24
+Vetor ordenado : 45 24
+Vetor ordenado : 41 25
+Vetor ordenado : 24 27
+Vetor ordenado : 61 33
+Vetor ordenado : 83 35
+Vetor ordenado : 66 38
+Vetor ordenado : 52 38
+Vetor ordenado : 79 39
+Vetor ordenado : 55 39
+Vetor ordenado : 28 40
+Vetor ordenado : 43 42
+Vetor ordenado : 41 43
+Vetor ordenado : 73 44
+Vetor ordenado : 58 45
+Vetor ordenado : 62 49
+Vetor ordenado : 75 51
+Vetor ordenado : 66 51
+Vetor ordenado : 59 54
+Vetor ordenado : 66 55
+Vetor ordenado : 30 55
+Vetor ordenado : 70 56
+Vetor ordenado : 87 61
+Vetor ordenado : 86 64
+Vetor ordenado : 79 64
+Vetor ordenado : 81 65
+Vetor ordenado : 56 65
+Vetor ordenado : 38 65
+Vetor ordenado : 37 66
+Vetor ordenado : 83 67
+Vetor ordenado : 29 67
+Vetor ordenado : 67 68
+Vetor ordenado : 84 71
+Vetor ordenado : 64 71
+Vetor ordenado : 48 71
+Vetor ordenado : 84 72
+Vetor ordenado : 64 72
+Vetor ordenado : 35 72
+Vetor ordenado : 48 73
+Heuristica do mais valioso
+Peso final: 372 kg
+Valor final: 498 Dinheiros
+###########################################
+
+
+Heuristica do mais leve
+Peso final: 364 kg
+Valor final: 496 Dinheiros
+###########################################
+
+
