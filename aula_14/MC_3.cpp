@@ -14,17 +14,22 @@ int N = 100000;
 void Monte_Carlo(float& circulo){
     //unsigned seed = chrono::system_clock::now().time_since_epoch().count();
     //default_random_engine generator(seed);
-    uniform_real_distribution<float> distribution(0.0,1.0);
-    #pragma omp parallel for reduction(+:circulo)
-    for(int i = 0; i < N; i++){
-        unsigned seed = chrono::system_clock::now().time_since_epoch().count();
+    
+    #pragma omp parallel reduction(+:circulo)
+    {
+        unsigned seed = chrono::system_clock::now().time_since_epoch().count() + omp_get_thread_num();
         default_random_engine generator(seed);
-        float x = distribution(generator);
-        float y = distribution(generator);
-        if(pow(x,2) + pow(y,2) <= 1.0){
-            circulo++;
-        }
+        uniform_real_distribution<float> distribution(0.0,1.0);
 
+        #pragma omp for
+        for(int i = 0; i < N; i++){
+        
+            float x = distribution(generator);
+            float y = distribution(generator);
+            if(pow(x,2) + pow(y,2) <= 1.0){
+                circulo++;
+            }
+        }
     }
 
 }
