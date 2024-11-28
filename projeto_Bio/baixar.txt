@@ -1,0 +1,2 @@
+wget ftp://hgdownload.cse.ucsc.edu/goldenPath/hg19/snp147Mask/chr1.subst.fa.gz
+gunzip chr1.subst.fa.gz 

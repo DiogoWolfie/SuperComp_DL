@@ -20,6 +20,11 @@ int main(int argc, char **argv){
         }
     }
 
+    //para o caso do array não ser divisivel pelo size
+    // int remainder = array_size % size;
+    // if(rank < remainder){
+    //     chunck_size += 1;
+    // }
     int chunck_size = array_size/size;
     int recv_array[chunck_size];
 

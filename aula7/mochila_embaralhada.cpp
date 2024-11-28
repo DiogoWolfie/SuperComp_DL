@@ -40,7 +40,7 @@ void separaValores (vector<int>& mochila, int& N, int& W, vector<int>& pesos, ve
     int valor_loop = mochila.size()/2;
 
     for(int n = 0 ; n < valor_loop; n++ ){
-        int a = distribution(generator);
+        int a = distribution(generator); //indice aleatório
         if(a % 2 == 0 && find(pesos.begin(), pesos.end(), mochila[a]) == pesos.end()){
             pesos.push_back(mochila[a]);
             valores.push_back(mochila[a+1]);
